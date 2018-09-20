@@ -1,0 +1,16 @@
+/*style.css*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+.block {
+	background: orange;
+	float: left;
+	width: 31%;
+	height: 0;
+	padding-bottom: 31%; 
+	margin:1%;
+	border-radius: 5%;
+
+}
